@@ -5,7 +5,7 @@
   - Framework : Angular, Vue, Cypress, Springboot
   - Base de données : MySQL, PosgreSQL
   - Environnement : Docker, Git
-### Projet(s) en cours :
+### 🗂️ Projet(s) en cours :
  - Script de prédiction d'un jeu de données (Langage : Python)
 
 ### 💡 Ma **vision** : La qualité avant tout !

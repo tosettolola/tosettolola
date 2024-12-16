@@ -1,4 +1,4 @@
-Hello, moi c'est Lola
+Hello, moi c'est Lola\n
 Etudiant en master MIAGE, passionnée par le développement logiciel et l'innovation technologique
 Compétences clés :
   - Langage de programmation : TypeScript, Java, Python

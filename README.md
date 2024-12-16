@@ -3,7 +3,7 @@
 ### 🚀 Compétences clés :
   - Langage de programmation : TypeScript, Java, Python
   - Framework : Angular, Vue, Cypress, Springboot
-  - Base de données : MySQL, PoqgreSQL
+  - Base de données : MySQL, PosgreSQL
 ### Projet(s) en cours :
  - Script de prediction d'un jeu de données (Langage : Python)
 
